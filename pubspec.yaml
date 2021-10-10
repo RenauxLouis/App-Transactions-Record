@@ -38,8 +38,9 @@ dependencies:
   universal_io: ^2.0.1
 
 flutter_icons:
-  image_path: icon/icon.png
   ios: true
+  android: "launcher_icon"
+  image_path: "icon/icon.png"
 
 dev_dependencies:
   flutter_test:

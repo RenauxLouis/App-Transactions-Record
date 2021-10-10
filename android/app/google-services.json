@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1090207151567",
+    "project_id": "qrcode-app-8f2fd",
+    "storage_bucket": "qrcode-app-8f2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090207151567:android:6774a39763e0cba6734eba",
+        "android_client_info": {
+          "package_name": "com.laveriepriveeqrcode.laverie_privee_qrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090207151567-8ro0igmq2upic1h5k3oh9mfpi41lif6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5xoHrxquyWds_GdVjPsoWqYFxFlG0zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090207151567-8ro0igmq2upic1h5k3oh9mfpi41lif6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090207151567-u143d529idlv3tl9fqc8la33rama8lbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.laverieprivee.qrcodeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
